@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+.divresult {
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+button {
+    width: 10rem;
+    height: 4rem;
+}
+
