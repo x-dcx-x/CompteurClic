@@ -1,9 +1,15 @@
-let result =document.getElementById("result");
+let result = document.getElementById("result");
 let button = document.getElementById("button");
-let clic = 0
+let reset = document.getElementById("reset");
+
 
 button.addEventListener("click",function(){
-    
+    result.innerHTML ++;
+    console.log(result)
 })
 
 
+reset.addEventListener("click", function (){
+    result.innerHTML=" ";
+    console.log(result)
+})

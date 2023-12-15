@@ -32,3 +32,8 @@ button {
     height: 4rem;
 }
 
+#resset{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
