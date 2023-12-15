@@ -8,7 +8,7 @@ html {
     font-size: 65.5%;
 }
 
-.divresult {
+#divresult {
     margin-top: 5rem;
     margin-bottom: 2rem;
     display: flex;
@@ -17,12 +17,12 @@ html {
 
 }
 
-.but {
+#but {
     display: flex;
     justify-content: center;
 }
 
-.result {
+#result {
     font-size: 5rem;
     font-weight: bold;
 }
